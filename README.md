@@ -1,4 +1,4 @@
-# Linguistic Acceptability Model for Technical Texts  
+# Linguistic Acceptability Model for Russian Technical Texts  
 
 This repository contains experimental research on model training, as well as the final model for assessing linguistic acceptability in russian technical texts. The experiments explore various approaches to evaluating whether a given text meets russian linguistic and stylistic standards, particularly in specialized technical domains. The resulting model is designed to automatically determine the grammatical correctness, coherence, and overall linguistic quality of technical writing in russian. 
 
