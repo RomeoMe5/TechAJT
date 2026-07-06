@@ -1,6 +1,6 @@
 # Linguistic Acceptability Model for Technical Texts  
 
-This repository contains experimental research on model training, as well as the final model for assessing linguistic acceptability in technical texts. The experiments explore various approaches to evaluating whether a given text meets linguistic and stylistic standards, particularly in specialized technical domains. The resulting model is designed to automatically determine the grammatical correctness, coherence, and overall linguistic quality of technical writing. 
+This repository contains experimental research on model training, as well as the final model for assessing linguistic acceptability in russian technical texts. The experiments explore various approaches to evaluating whether a given text meets russian linguistic and stylistic standards, particularly in specialized technical domains. The resulting model is designed to automatically determine the grammatical correctness, coherence, and overall linguistic quality of technical writing in russian. 
 
 ## Requirements  
 
@@ -21,5 +21,5 @@ See the example script [predict.py](./predict.py). You will need to specify:
     * Input text for evaluation
 
 # Dataset
-The dataset consists of 1,000 annotated samples extracted from technical reports and final qualification theses (Bachelor's and Master's) written by students. 
+The dataset consists of 1,000 russian-language annotated samples extracted from technical reports and final qualification theses (Bachelor's and Master's) written by students in HSE Univeristy, MIEM. 
 For details, explore the dataset files in [data](/data).
